@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" 
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns 
+	  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="latitude" for="node" attr.name="latitude" attr.type="double"/>
+<key id="longitude" for="node" attr.name="longitude" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="double"/>
+<graph id="G" edgedefault="directed">
+<node id="237">
+	<data key="label">Hospital de Bellvitge</data>
+	<data key="latitude">56298.75725815352</data>
+	<data key="longitude">50813.962848806405</data>
+</node>
+<node id="238">
+	<data key="label">Bellvitge</data>
+	<data key="latitude">55687.59923390858</data>
+	<data key="longitude">51349.78495225517</data>
+</node>
+<node id="239">
+	<data key="label">Avinguda Carrilet</data>
+	<data key="latitude">55226.08500030544</data>
+	<data key="longitude">50588.45357905302</data>
+</node>
+<node id="240">
+	<data key="label">Rambla Just Oliveras</data>
+	<data key="latitude">54848.39181173965</data>
+	<data key="longitude">50318.74888408117</data>
+</node>
+<node id="241">
+	<data key="label">Can Serra</data>
+	<data key="latitude">54553.782102906145</data>
+	<data key="longitude">50563.765449069906</data>
+</node>
+<node id="242">
+	<data key="label">Florida</data>
+	<data key="latitude">54431.86036426667</data>
+	<data key="longitude">51139.4079653527</data>
+</node>
+<node id="243">
+	<data key="label">Torrassa</data>
+	<data key="latitude">54420.456042051315</data>
+	<data key="longitude">51716.93964376373</data>
+</node>
+<node id="244">
+	<data key="label">Santa EulÃ lia</data>
+	<data key="latitude">54376.42089911457</data>
+	<data key="longitude">52603.76816021727</data>
+</node>
+<node id="245">
+	<data key="label">Mercat Nou</data>
+	<data key="latitude">54010.15910553839</data>
+	<data key="longitude">53125.01647413487</data>
+</node>
+<node id="246">
+	<data key="label">PlaÃ§a de Sants</data>
+	<data key="latitude">53859.72711459547</data>
+	<data key="longitude">53328.69683508834</data>
+</node>
+<node id="248">
+	<data key="label">Hostafrancs</data>
+	<data key="latitude">53837.166081934236</data>
+	<data key="longitude">53932.45889242756</data>
+</node>
+<node id="249">
+	<data key="label">Espanya</data>
+	<data key="latitude">53860.514137457125</data>
+	<data key="longitude">54398.418725746305</data>
+</node>
+<node id="251">
+	<data key="label">Rocafort</data>
+	<data key="latitude">53538.267579494976</data>
+	<data key="longitude">54828.130591326684</data>
+</node>
+<node id="252">
+	<data key="label">Urgell</data>
+	<data key="latitude">53257.83747833595</data>
+	<data key="longitude">55202.34042750596</data>
+</node>
+<node id="253">
+	<data key="label">Universitat</data>
+	<data key="latitude">53040.6410668483</data>
+	<data key="longitude">55576.68305170181</data>
+</node>
+<node id="255">
+	<data key="label">Catalunya</data>
+	<data key="latitude">52898.14752731193</data>
+	<data key="longitude">56106.05531044275</data>
+</node>
+<node id="257">
+	<data key="label">Urquinaona</data>
+	<data key="latitude">52724.52474552486</data>
+	<data key="longitude">56378.471077243536</data>
+</node>
+<node id="259">
+	<data key="label">Arc de Triomf</data>
+	<data key="latitude">52541.166304199025</data>
+	<data key="longitude">56906.23531674125</data>
+</node>
+<node id="260">
+	<data key="label">Marina</data>
+	<data key="latitude">52294.816443081014</data>
+	<data key="longitude">57478.054393339495</data>
+</node>
+<node id="261">
+	<data key="label">GlÃ²ries</data>
+	<data key="latitude">51641.5632377509</data>
+	<data key="longitude">57476.35594135246</data>
+</node>
+<node id="262">
+	<data key="label">Clot</data>
+	<data key="latitude">51255.05192636512</data>
+	<data key="longitude">57438.35298883129</data>
+</node>
+<node id="264">
+	<data key="label">Navas</data>
+	<data key="latitude">50744.36985014845</data>
+	<data key="longitude">57442.093984624866</data>
+</node>
+<node id="265">
+	<data key="label">La Sagrera</data>
+	<data key="latitude">50234.50335300993</data>
+	<data key="longitude">57422.6232394063</data>
+</node>
+<node id="269">
+	<data key="label">Fabra i Puig</data>
+	<data key="latitude">49614.56372834556</data>
+	<data key="longitude">57073.66091258501</data>
+</node>
+<node id="270">
+	<data key="label">Sant Andreu</data>
+	<data key="latitude">49261.57362786867</data>
+	<data key="longitude">57757.20156022656</data>
+</node>
+<node id="271">
+	<data key="label">Torras i Bages</data>
+	<data key="latitude">48794.9756805636</data>
+	<data key="longitude">57669.65369053607</data>
+</node>
+<node id="272">
+	<data key="label">Trinitat Vella</data>
+	<data key="latitude">48275.075716657564</data>
+	<data key="longitude">57905.281369569886</data>
+</node>
+<node id="273">
+	<data key="label">BarÃ³ de Viver</data>
+	<data key="latitude">48294.53341174591</data>
+	<data key="longitude">58463.51853483153</data>
+</node>
+<node id="274">
+	<data key="label">Santa Coloma</data>
+	<data key="latitude">48067.25647178572</data>
+	<data key="longitude">59058.71276930478</data>
+</node>
+<node id="275">
+	<data key="label">Fondo</data>
+	<data key="latitude">47991.48827302642</data>
+	<data key="longitude">59961.678434729925</data>
+</node>
+<node id="277">
+	<data key="label">ParalÂ·lel</data>
+	<data key="latitude">53777.98017722368</data>
+	<data key="longitude">56046.37532307103</data>
+</node>
+<node id="279">
+	<data key="label">Sant Antoni</data>
+	<data key="latitude">53511.133812015876</data>
+	<data key="longitude">55547.95208052112</data>
+</node>
+<node id="280">
+	<data key="label">Passeig de GrÃ cia</data>
+	<data key="latitude">52680.974523602985</data>
+	<data key="longitude">55911.83219040203</data>
+</node>
+<node id="283">
+	<data key="label">Tetuan</data>
+	<data key="latitude">52287.64799646847</data>
+	<data key="longitude">56594.366857201676</data>
+</node>
+<node id="284">
+	<data key="label">Monumental</data>
+	<data key="latitude">51904.80439774785</data>
+	<data key="longitude">56998.24352140899</data>
+</node>
+<node id="285">
+	<data key="label">Sagrada FamÃ­lia</data>
+	<data key="latitude">51560.76593928132</data>
+	<data key="longitude">56380.79432718031</data>
+</node>
+<node id="287">
+	<data key="label">Encants</data>
+	<data key="latitude">51373.40789123252</data>
+	<data key="longitude">57093.55189013909</data>
+</node>
+<node id="288">
+	<data key="label">Bac de Roda</data>
+	<data key="latitude">50864.92871557735</data>
+	<data key="longitude">58027.72548162262</data>
+</node>
+<node id="289">
+	<data key="label">Sant MartÃ­</data>
+	<data key="latitude">50565.186235532165</data>
+	<data key="longitude">58388.0797660072</data>
+</node>
+<node id="290">
+	<data key="label">La Pau</data>
+	<data key="latitude">50134.98278336879</data>
+	<data key="longitude">58952.51340790407</data>
+</node>
+<node id="292">
+	<data key="label">Verneda</data>
+	<data key="latitude">49609.84152357187</data>
+	<data key="longitude">59327.295365948085</data>
+</node>
+<node id="293">
+	<data key="label">Artigues-Sant AdriÃ </data>
+	<data key="latitude">49363.0299071176</data>
+	<data key="longitude">59898.63395566252</data>
+</node>
+<node id="294">
+	<data key="label">Sant Roc</data>
+	<data key="latitude">49184.21370603517</data>
+	<data key="longitude">60821.0694268129</data>
+</node>
+<node id="295">
+	<data key="label">Gorg</data>
+	<data key="latitude">48735.893790012226</data>
+	<data key="longitude">61314.731764713186</data>
+</node>
+<node id="297">
+	<data key="label">Pep Ventura</data>
+	<data key="latitude">48478.37085777335</data>
+	<data key="longitude">61629.91821925863</data>
+</node>
+<node id="298">
+	<data key="label">Badalona Pompeu Fabra</data>
+	<data key="latitude">48092.68212303426</data>
+	<data key="longitude">62130.09731092735</data>
+</node>
+<node id="299">
+	<data key="label">Zona UniversitÃ ria</data>
+	<data key="latitude">53303.755188032985</data>
+	<data key="longitude">51261.87572757079</data>
+</node>
+<node id="300">
+	<data key="label">Palau Reial</data>
+	<data key="latitude">53120.11905422155</data>
+	<data key="longitude">51813.09802882405</data>
+</node>
+<node id="301">
+	<data key="label">Maria Cristina</data>
+	<data key="latitude">52953.347893053666</data>
+	<data key="longitude">52457.905276927486</data>
+</node>
+<node id="302">
+	<data key="label">Les Corts</data>
+	<data key="latitude">53245.27005028445</data>
+	<data key="longitude">52840.75652518764</data>
+</node>
+<node id="303">
+	<data key="label">PlaÃ§a del Centre</data>
+	<data key="latitude">53372.36606761627</data>
+	<data key="longitude">53264.01294082595</data>
+</node>
+<node id="304">
+	<data key="label">Sants EstaciÃ³</data>
+	<data key="latitude">53562.29260964133</data>
+	<data key="longitude">53643.13768382915</data>
+</node>
+<node id="306">
+	<data key="label">Tarragona</data>
+	<data key="latitude">53603.53946499899</data>
+	<data key="longitude">54137.39311512894</data>
+</node>
+<node id="307">
+	<data key="label">Poble Sec</data>
+	<data key="latitude">53825.565887312405</data>
+	<data key="longitude">55327.28238255161</data>
+</node>
+<node id="308">
+	<data key="label">Drassanes</data>
+	<data key="latitude">53612.43564671837</data>
+	<data key="longitude">56644.70690215766</data>
+</node>
+<node id="309">
+	<data key="label">Liceu</data>
+	<data key="latitude">53316.45620603021</data>
+	<data key="longitude">56377.68241685431</data>
+</node>
+<node id="310">
+	<data key="label">Diagonal</data>
+	<data key="latitude">52359.88125217799</data>
+	<data key="longitude">55225.499216326774</data>
+</node>
+<node id="312">
+	<data key="label">Fontana</data>
+	<data key="latitude">51832.16287266649</data>
+	<data key="longitude">54601.23449125816</data>
+</node>
+<node id="313">
+	<data key="label">Lesseps</data>
+	<data key="latitude">51556.305265292525</data>
+	<data key="longitude">54335.19040948985</data>
+</node>
+<node id="314">
+	<data key="label">Vallcarca</data>
+	<data key="latitude">51166.48695617076</data>
+	<data key="longitude">53935.14544409778</data>
+</node>
+<node id="315">
+	<data key="label">Penitents</data>
+	<data key="latitude">50766.69787581358</data>
+	<data key="longitude">53608.3772440945</data>
+</node>
+<node id="316">
+	<data key="label">Vall d'Hebron</data>
+	<data key="latitude">50214.2687696917</data>
+	<data key="longitude">53634.196545573475</data>
+</node>
+<node id="318">
+	<data key="label">Montbau</data>
+	<data key="latitude">49817.14293564018</data>
+	<data key="longitude">53874.92565350453</data>
+</node>
+<node id="319">
+	<data key="label">Mundet</data>
+	<data key="latitude">49415.61240398511</data>
+	<data key="longitude">54231.61206853061</data>
+</node>
+<node id="320">
+	<data key="label">Valldaura</data>
+	<data key="latitude">49188.04149115365</data>
+	<data key="longitude">54850.33072010838</data>
+</node>
+<node id="321">
+	<data key="label">Canyelles</data>
+	<data key="latitude">48806.14408217836</data>
+	<data key="longitude">55765.15853107377</data>
+</node>
+<node id="322">
+	<data key="label">Roquetes</data>
+	<data key="latitude">48495.83994168788</data>
+	<data key="longitude">56403.825246792636</data>
+</node>
+<node id="323">
+	<data key="label">Trinitat Nova</data>
+	<data key="latitude">48310.52401083987</data>
+	<data key="longitude">56977.494045711006</data>
+</node>
+<node id="326">
+	<data key="label">Via JÃºlia</data>
+	<data key="latitude">48690.39987739269</data>
+	<data key="longitude">56672.090774148586</data>
+</node>
+<node id="327">
+	<data key="label">Llucmajor</data>
+	<data key="latitude">49207.55824485794</data>
+	<data key="longitude">56252.66884478813</data>
+</node>
+<node id="328">
+	<data key="label">Maragall</data>
+	<data key="latitude">50160.819096620195</data>
+	<data key="longitude">56676.21129812367</data>
+</node>
+<node id="330">
+	<data key="label">GuinardÃ³</data>
+	<data key="latitude">50748.7022949541</data>
+	<data key="longitude">56389.709067962656</data>
+</node>
+<node id="331">
+	<data key="label">Alfons X</data>
+	<data key="latitude">51057.86637132056</data>
+	<data key="longitude">55641.22106933163</data>
+</node>
+<node id="332">
+	<data key="label">Joanic</data>
+	<data key="latitude">51554.263143369</data>
+	<data key="longitude">55474.0403178721</data>
+</node>
+<node id="333">
+	<data key="label">Verdaguer</data>
+	<data key="latitude">51965.73915418051</data>
+	<data key="longitude">55931.24995753486</data>
+</node>
+<node id="335">
+	<data key="label">Girona</data>
+	<data key="latitude">52323.8926157346</data>
+	<data key="longitude">56177.286075087</data>
+</node>
+<node id="336">
+	<data key="label">Jaume I</data>
+	<data key="latitude">53094.13035783358</data>
+	<data key="longitude">56857.527315024985</data>
+</node>
+<node id="337">
+	<data key="label">Barceloneta</data>
+	<data key="latitude">53155.30351907294</data>
+	<data key="longitude">57394.65000133301</data>
+</node>
+<node id="338">
+	<data key="label">Ciutadella-Vila OlÃ­mpica</data>
+	<data key="latitude">52746.916589509696</data>
+	<data key="longitude">58050.53241514895</data>
+</node>
+<node id="339">
+	<data key="label">Bogatell</data>
+	<data key="latitude">52239.85045910347</data>
+	<data key="longitude">57847.919339758315</data>
+</node>
+<node id="340">
+	<data key="label">Llacuna</data>
+	<data key="latitude">51934.8858856624</data>
+	<data key="longitude">58347.67230581984</data>
+</node>
+<node id="341">
+	<data key="label">Poblenou</data>
+	<data key="latitude">51611.24495002255</data>
+	<data key="longitude">58800.155503729446</data>
+</node>
+<node id="342">
+	<data key="label">Selva de Mar</data>
+	<data key="latitude">51203.48590547219</data>
+	<data key="longitude">59371.809323403315</data>
+</node>
+<node id="343">
+	<data key="label">El Maresme-FÃ²rum</data>
+	<data key="latitude">50913.1002536295</data>
+	<data key="longitude">59958.64074571899</data>
+</node>
+<node id="344">
+	<data key="label">BesÃ²s Mar</data>
+	<data key="latitude">50710.07925640326</data>
+	<data key="longitude">59927.54015967698</data>
+</node>
+<node id="345">
+	<data key="label">BesÃ²s</data>
+	<data key="latitude">50334.606455018744</data>
+	<data key="longitude">59295.30775775641</data>
+</node>
+<node id="346">
+	<data key="label">CornellÃ  Centre</data>
+	<data key="latitude">55323.43342523463</data>
+	<data key="longitude">47917.17227029544</data>
+</node>
+<node id="347">
+	<data key="label">Gavarra</data>
+	<data key="latitude">55377.97880411055</data>
+	<data key="longitude">48663.45017855405</data>
+</node>
+<node id="348">
+	<data key="label">Sant Ildefons</data>
+	<data key="latitude">55046.968019809574</data>
+	<data key="longitude">48790.976808550186</data>
+</node>
+<node id="349">
+	<data key="label">Can Boixeres</data>
+	<data key="latitude">54656.236171266995</data>
+	<data key="longitude">49531.90826414581</data>
+</node>
+<node id="350">
+	<data key="label">Can Vidalet</data>
+	<data key="latitude">54279.60251543019</data>
+	<data key="longitude">50251.382476554834</data>
+</node>
+<node id="351">
+	<data key="label">Pubilla Cases</data>
+	<data key="latitude">54116.5013497686</data>
+	<data key="longitude">50803.50480350037</data>
+</node>
+<node id="352">
+	<data key="label">Collblanc</data>
+	<data key="latitude">53888.543736428954</data>
+	<data key="longitude">52004.3001708308</data>
+</node>
+<node id="353">
+	<data key="label">Badal</data>
+	<data key="latitude">53821.94194511976</data>
+	<data key="longitude">52699.43763014197</data>
+</node>
+<node id="354">
+	<data key="label">EntenÃ§a</data>
+	<data key="latitude">53201.06461084727</data>
+	<data key="longitude">54024.904423330096</data>
+</node>
+<node id="355">
+	<data key="label">Hospital ClÃ­nic</data>
+	<data key="latitude">52899.178113590926</data>
+	<data key="longitude">54455.34097421009</data>
+</node>
+<node id="356">
+	<data key="label">Sant Pau-Dos de Maig</data>
+	<data key="latitude">51105.12632855028</data>
+	<data key="longitude">56549.43271706748</data>
+</node>
+<node id="357">
+	<data key="label">Camp de l'Arpa</data>
+	<data key="latitude">50803.74189355783</data>
+	<data key="longitude">56956.30848865761</data>
+</node>
+<node id="358">
+	<data key="label">CongrÃ©s</data>
+	<data key="latitude">50193.66528583132</data>
+	<data key="longitude">56886.59803308186</data>
+</node>
+<node id="359">
+	<data key="label">Virrei Amat</data>
+	<data key="latitude">49702.24457007833</data>
+	<data key="longitude">56379.95023072828</data>
+</node>
+<node id="360">
+	<data key="label">Vilapicina</data>
+	<data key="latitude">49723.357647186145</data>
+	<data key="longitude">55823.112612882396</data>
+</node>
+<node id="361">
+	<data key="label">Horta</data>
+	<data key="latitude">49803.85260521155</data>
+	<data key="longitude">55314.98626693577</data>
+</node>
+<node id="362">
+	<data key="label">El Carmel</data>
+	<data key="latitude">50180.45653753914</data>
+	<data key="longitude">54759.409231792175</data>
+</node>
+<node id="363">
+	<data key="label">El Coll-La Teixonera</data>
+	<data key="latitude">50396.52279058937</data>
+	<data key="longitude">54271.01556433548</data>
+</node>
+<node id="364">
+	<data key="label">Onze de Setembre</data>
+	<data key="latitude">49685.07398733683</data>
+	<data key="longitude">57961.62342670333</data>
+</node>
+<node id="366">
+	<data key="label">Bon Pastor</data>
+	<data key="latitude">49171.07931209169</data>
+	<data key="longitude">58910.47887293217</data>
+</node>
+<node id="368">
+	<data key="label">Can Peixauet</data>
+	<data key="latitude">48567.20871107094</data>
+	<data key="longitude">59300.18912176433</data>
+</node>
+<node id="369">
+	<data key="label">EsglÃ©sia Major</data>
+	<data key="latitude">47785.57863926049</data>
+	<data key="longitude">59465.518526350235</data>
+</node>
+<node id="370">
+	<data key="label">SinguerlÃ­n</data>
+	<data key="latitude">47463.43992689252</data>
+	<data key="longitude">58967.01036235891</data>
+</node>
+<node id="371">
+	<data key="label">Can Zam</data>
+	<data key="latitude">47701.444368247874</data>
+	<data key="longitude">58291.24878610461</data>
+</node>
+<node id="372">
+	<data key="label">LlefiÃ </data>
+	<data key="latitude">48742.856127803214</data>
+	<data key="longitude">59900.2640351429</data>
+</node>
+<node id="373">
+	<data key="label">La Salut</data>
+	<data key="latitude">48656.920791815035</data>
+	<data key="longitude">60464.05069263195</data>
+</node>
+<node id="374">
+	<data key="label">Casa de l'Aigua</data>
+	<data key="latitude">48013.31645148713</data>
+	<data key="longitude">57268.119298156904</data>
+</node>
+<node id="375">
+	<data key="label">Torre BarÃ³-Vallbona</data>
+	<data key="latitude">47624.57495442219</data>
+	<data key="longitude">56742.32656868579</data>
+</node>
+<node id="376">
+	<data key="label">Ciutat Meridiana</data>
+	<data key="latitude">47458.50684258621</data>
+	<data key="longitude">56271.521783141536</data>
+</node>
+<node id="377">
+	<data key="label">Can CuiÃ s</data>
+	<data key="latitude">47282.7156644417</data>
+	<data key="longitude">56055.838471689174</data>
+</node>
+<edge id="e237238" source="237" target="238">
+	<data key="weight">1054.83287401208</data>
+</edge>
+<edge id="e238237" source="238" target="237">
+	<data key="weight">1054.83287401208</data>
+</edge>
+<edge id="e238239" source="238" target="239">
+	<data key="weight">1049.09454008701</data>
+</edge>
+<edge id="e239238" source="239" target="238">
+	<data key="weight">1049.09454008701</data>
+</edge>
+<edge id="e239240" source="239" target="240">
+	<data key="weight">640.054773639103</data>
+</edge>
+<edge id="e240239" source="240" target="239">
+	<data key="weight">640.054773639103</data>
+</edge>
+<edge id="e240241" source="240" target="241">
+	<data key="weight">502.15147210776</data>
+</edge>
+<edge id="e241240" source="241" target="240">
+	<data key="weight">502.15147210776</data>
+</edge>
+<edge id="e241242" source="241" target="242">
+	<data key="weight">598.185375492015</data>
+</edge>
+<edge id="e242241" source="242" target="241">
+	<data key="weight">598.185375492015</data>
+</edge>
+<edge id="e242243" source="242" target="243">
+	<data key="weight">576.426898409035</data>
+</edge>
+<edge id="e243242" source="243" target="242">
+	<data key="weight">576.426898409035</data>
+</edge>
+<edge id="e243244" source="243" target="244">
+	<data key="weight">885.971301279637</data>
+</edge>
+<edge id="e244243" source="244" target="243">
+	<data key="weight">885.971301279637</data>
+</edge>
+<edge id="e244245" source="244" target="245">
+	<data key="weight">748.50232782204</data>
+</edge>
+<edge id="e245244" source="245" target="244">
+	<data key="weight">748.50232782204</data>
+</edge>
+<edge id="e245246" source="245" target="246">
+	<data key="weight">300.52331789242</data>
+</edge>
+<edge id="e246245" source="246" target="245">
+	<data key="weight">300.52331789242</data>
+</edge>
+<edge id="e246248" source="246" target="248">
+	<data key="weight">602.794176170097</data>
+</edge>
+<edge id="e248246" source="248" target="246">
+	<data key="weight">602.794176170097</data>
+</edge>
+<edge id="e248249" source="248" target="249">
+	<data key="weight">467.788988120537</data>
+</edge>
+<edge id="e249248" source="249" target="248">
+	<data key="weight">467.788988120537</data>
+</edge>
+<edge id="e249251" source="249" target="251">
+	<data key="weight">639.385250842913</data>
+</edge>
+<edge id="e251249" source="251" target="249">
+	<data key="weight">639.385250842913</data>
+</edge>
+<edge id="e251252" source="251" target="252">
+	<data key="weight">556.539465830007</data>
+</edge>
+<edge id="e252251" source="252" target="251">
+	<data key="weight">556.539465830007</data>
+</edge>
+<edge id="e252253" source="252" target="253">
+	<data key="weight">489.85177731743</data>
+</edge>
+<edge id="e253252" source="253" target="252">
+	<data key="weight">489.85177731743</data>
+</edge>
+<edge id="e253255" source="253" target="255">
+	<data key="weight">564.460753875749</data>
+</edge>
+<edge id="e255253" source="255" target="253">
+	<data key="weight">564.460753875749</data>
+</edge>
+<edge id="e255257" source="255" target="257">
+	<data key="weight">372.108428709168</data>
+</edge>
+<edge id="e257255" source="257" target="255">
+	<data key="weight">372.108428709168</data>
+</edge>
+<edge id="e257259" source="257" target="259">
+	<data key="weight">587.628800255552</data>
+</edge>
+<edge id="e259257" source="259" target="257">
+	<data key="weight">587.628800255552</data>
+</edge>
+<edge id="e259260" source="259" target="260">
+	<data key="weight">671.765470893486</data>
+</edge>
+<edge id="e260259" source="260" target="259">
+	<data key="weight">671.765470893486</data>
+</edge>
+<edge id="e260261" source="260" target="261">
+	<data key="weight">988.949823211072</data>
+</edge>
+<edge id="e261260" source="261" target="260">
+	<data key="weight">988.949823211072</data>
+</edge>
+<edge id="e261262" source="261" target="262">
+	<data key="weight">587.484912759629</data>
+</edge>
+<edge id="e262261" source="262" target="261">
+	<data key="weight">587.484912759629</data>
+</edge>
+<edge id="e262264" source="262" target="264">
+	<data key="weight">772.752338808569</data>
+</edge>
+<edge id="e264262" source="264" target="262">
+	<data key="weight">772.752338808569</data>
+</edge>
+<edge id="e264265" source="264" target="265">
+	<data key="weight">772.4048611062</data>
+</edge>
+<edge id="e265264" source="265" target="264">
+	<data key="weight">772.4048611062</data>
+</edge>
+<edge id="e265269" source="265" target="269">
+	<data key="weight">1011.20354699352</data>
+</edge>
+<edge id="e269265" source="269" target="265">
+	<data key="weight">1011.20354699352</data>
+</edge>
+<edge id="e269270" source="269" target="270">
+	<data key="weight">852.802379145004</data>
+</edge>
+<edge id="e270269" source="270" target="269">
+	<data key="weight">852.802379145004</data>
+</edge>
+<edge id="e270271" source="270" target="271">
+	<data key="weight">714.001601653928</data>
+</edge>
+<edge id="e271270" source="271" target="270">
+	<data key="weight">714.001601653928</data>
+</edge>
+<edge id="e271272" source="271" target="272">
+	<data key="weight">813.331679027174</data>
+</edge>
+<edge id="e272271" source="272" target="271">
+	<data key="weight">813.331679027174</data>
+</edge>
+<edge id="e272273" source="272" target="273">
+	<data key="weight">559.222041771605</data>
+</edge>
+<edge id="e273272" source="273" target="272">
+	<data key="weight">559.222041771605</data>
+</edge>
+<edge id="e273274" source="273" target="274">
+	<data key="weight">676.746952962094</data>
+</edge>
+<edge id="e274273" source="274" target="273">
+	<data key="weight">676.746952962094</data>
+</edge>
+<edge id="e274275" source="274" target="275">
+	<data key="weight">905.243910755364</data>
+</edge>
+<edge id="e275274" source="275" target="274">
+	<data key="weight">905.243910755364</data>
+</edge>
+<edge id="e277279" source="277" target="279">
+	<data key="weight">651.251930429861</data>
+</edge>
+<edge id="e279277" source="279" target="277">
+	<data key="weight">651.251930429861</data>
+</edge>
+<edge id="e279253" source="279" target="253">
+	<data key="weight">712.123373983434</data>
+</edge>
+<edge id="e253279" source="253" target="279">
+	<data key="weight">712.123373983434</data>
+</edge>
+<edge id="e253280" source="253" target="280">
+	<data key="weight">629.894641321312</data>
+</edge>
+<edge id="e280253" source="280" target="253">
+	<data key="weight">629.894641321312</data>
+</edge>
+<edge id="e280283" source="280" target="283">
+	<data key="weight">890.387817257124</data>
+</edge>
+<edge id="e283280" source="283" target="280">
+	<data key="weight">890.387817257124</data>
+</edge>
+<edge id="e283284" source="283" target="284">
+	<data key="weight">695.211067203899</data>
+</edge>
+<edge id="e284283" source="284" target="283">
+	<data key="weight">695.211067203899</data>
+</edge>
+<edge id="e284285" source="284" target="285">
+	<data key="weight">819.962746774765</data>
+</edge>
+<edge id="e285284" source="285" target="284">
+	<data key="weight">819.962746774765</data>
+</edge>
+<edge id="e285287" source="285" target="287">
+	<data key="weight">757.560781433558</data>
+</edge>
+<edge id="e287285" source="287" target="285">
+	<data key="weight">757.560781433558</data>
+</edge>
+<edge id="e287262" source="287" target="262">
+	<data key="weight">382.911970157477</data>
+</edge>
+<edge id="e262287" source="262" target="287">
+	<data key="weight">382.911970157477</data>
+</edge>
+<edge id="e262288" source="262" target="288">
+	<data key="weight">819.904070901327</data>
+</edge>
+<edge id="e288262" source="288" target="262">
+	<data key="weight">819.904070901327</data>
+</edge>
+<edge id="e288289" source="288" target="289">
+	<data key="weight">569.675639213415</data>
+</edge>
+<edge id="e289288" source="289" target="288">
+	<data key="weight">569.675639213415</data>
+</edge>
+<edge id="e289290" source="289" target="290">
+	<data key="weight">846.94306647897</data>
+</edge>
+<edge id="e290289" source="290" target="289">
+	<data key="weight">846.94306647897</data>
+</edge>
+<edge id="e290292" source="290" target="292">
+	<data key="weight">867.010136329274</data>
+</edge>
+<edge id="e292290" source="292" target="290">
+	<data key="weight">867.010136329274</data>
+</edge>
+<edge id="e292293" source="292" target="293">
+	<data key="weight">671.468500456604</data>
+</edge>
+<edge id="e293292" source="293" target="292">
+	<data key="weight">671.468500456604</data>
+</edge>
+<edge id="e293294" source="293" target="294">
+	<data key="weight">951.444168294119</data>
+</edge>
+<edge id="e294293" source="294" target="293">
+	<data key="weight">951.444168294119</data>
+</edge>
+<edge id="e294295" source="294" target="295">
+	<data key="weight">824.999463609689</data>
+</edge>
+<edge id="e295294" source="295" target="294">
+	<data key="weight">824.999463609689</data>
+</edge>
+<edge id="e295297" source="295" target="297">
+	<data key="weight">492.538449149467</data>
+</edge>
+<edge id="e297295" source="297" target="295">
+	<data key="weight">492.538449149467</data>
+</edge>
+<edge id="e297298" source="297" target="298">
+	<data key="weight">755.143471356332</data>
+</edge>
+<edge id="e298297" source="298" target="297">
+	<data key="weight">755.143471356332</data>
+</edge>
+<edge id="e299300" source="299" target="300">
+	<data key="weight">608.777013906684</data>
+</edge>
+<edge id="e300299" source="300" target="299">
+	<data key="weight">608.777013906684</data>
+</edge>
+<edge id="e300301" source="300" target="301">
+	<data key="weight">684.129914961464</data>
+</edge>
+<edge id="e301300" source="301" target="300">
+	<data key="weight">684.129914961464</data>
+</edge>
+<edge id="e301302" source="301" target="302">
+	<data key="weight">593.58081572017</data>
+</edge>
+<edge id="e302301" source="302" target="301">
+	<data key="weight">593.58081572017</data>
+</edge>
+<edge id="e302303" source="302" target="303">
+	<data key="weight">469.987708708002</data>
+</edge>
+<edge id="e303302" source="303" target="302">
+	<data key="weight">469.987708708002</data>
+</edge>
+<edge id="e303304" source="303" target="304">
+	<data key="weight">482.741390051675</data>
+</edge>
+<edge id="e304303" source="304" target="303">
+	<data key="weight">482.741390051675</data>
+</edge>
+<edge id="e304306" source="304" target="306">
+	<data key="weight">499.492722953959</data>
+</edge>
+<edge id="e306304" source="306" target="304">
+	<data key="weight">499.492722953959</data>
+</edge>
+<edge id="e306249" source="306" target="249">
+	<data key="weight">475.335507805126</data>
+</edge>
+<edge id="e249306" source="249" target="306">
+	<data key="weight">475.335507805126</data>
+</edge>
+<edge id="e249307" source="249" target="307">
+	<data key="weight">927.383575935291</data>
+</edge>
+<edge id="e307249" source="307" target="249">
+	<data key="weight">927.383575935291</data>
+</edge>
+<edge id="e307277" source="307" target="277">
+	<data key="weight">719.384509504379</data>
+</edge>
+<edge id="e277307" source="277" target="307">
+	<data key="weight">719.384509504379</data>
+</edge>
+<edge id="e277308" source="277" target="308">
+	<data key="weight">640.411763457561</data>
+</edge>
+<edge id="e308277" source="308" target="277">
+	<data key="weight">640.411763457561</data>
+</edge>
+<edge id="e308309" source="308" target="309">
+	<data key="weight">528.971902970165</data>
+</edge>
+<edge id="e309308" source="309" target="308">
+	<data key="weight">528.971902970165</data>
+</edge>
+<edge id="e309255" source="309" target="255">
+	<data key="weight">697.129427212019</data>
+</edge>
+<edge id="e255309" source="255" target="309">
+	<data key="weight">697.129427212019</data>
+</edge>
+<edge id="e255280" source="255" target="280">
+	<data key="weight">387.157102522979</data>
+</edge>
+<edge id="e280255" source="280" target="255">
+	<data key="weight">387.157102522979</data>
+</edge>
+<edge id="e280310" source="280" target="310">
+	<data key="weight">853.044914886273</data>
+</edge>
+<edge id="e310280" source="310" target="280">
+	<data key="weight">853.044914886273</data>
+</edge>
+<edge id="e310312" source="310" target="312">
+	<data key="weight">1029.07080267546</data>
+</edge>
+<edge id="e312310" source="312" target="310">
+	<data key="weight">1029.07080267546</data>
+</edge>
+<edge id="e312313" source="312" target="313">
+	<data key="weight">502.074026010282</data>
+</edge>
+<edge id="e313312" source="313" target="312">
+	<data key="weight">502.074026010282</data>
+</edge>
+<edge id="e313314" source="313" target="314">
+	<data key="weight">723.073402644383</data>
+</edge>
+<edge id="e314313" source="314" target="313">
+	<data key="weight">723.073402644383</data>
+</edge>
+<edge id="e314315" source="314" target="315">
+	<data key="weight">696.556521690944</data>
+</edge>
+<edge id="e315314" source="315" target="314">
+	<data key="weight">696.556521690944</data>
+</edge>
+<edge id="e315316" source="315" target="316">
+	<data key="weight">835.48315051134</data>
+</edge>
+<edge id="e316315" source="316" target="315">
+	<data key="weight">835.48315051134</data>
+</edge>
+<edge id="e316318" source="316" target="318">
+	<data key="weight">639.950609084315</data>
+</edge>
+<edge id="e318316" source="318" target="316">
+	<data key="weight">639.950609084315</data>
+</edge>
+<edge id="e318319" source="318" target="319">
+	<data key="weight">694.235468688028</data>
+</edge>
+<edge id="e319318" source="319" target="318">
+	<data key="weight">694.235468688028</data>
+</edge>
+<edge id="e319320" source="319" target="320">
+	<data key="weight">697.543483931597</data>
+</edge>
+<edge id="e320319" source="320" target="319">
+	<data key="weight">697.543483931597</data>
+</edge>
+<edge id="e320321" source="320" target="321">
+	<data key="weight">1064.97651231069</data>
+</edge>
+<edge id="e321320" source="321" target="320">
+	<data key="weight">1064.97651231069</data>
+</edge>
+<edge id="e321322" source="321" target="322">
+	<data key="weight">779.492948318029</data>
+</edge>
+<edge id="e322321" source="322" target="321">
+	<data key="weight">779.492948318029</data>
+</edge>
+<edge id="e322323" source="322" target="323">
+	<data key="weight">629.516702699778</data>
+</edge>
+<edge id="e323322" source="323" target="322">
+	<data key="weight">629.516702699778</data>
+</edge>
+<edge id="e323326" source="323" target="326">
+	<data key="weight">641.612823901376</data>
+</edge>
+<edge id="e326323" source="326" target="323">
+	<data key="weight">641.612823901376</data>
+</edge>
+<edge id="e326327" source="326" target="327">
+	<data key="weight">875.21925728001</data>
+</edge>
+<edge id="e327326" source="327" target="326">
+	<data key="weight">875.21925728001</data>
+</edge>
+<edge id="e327328" source="327" target="328">
+	<data key="weight">1516.02895440055</data>
+</edge>
+<edge id="e328327" source="328" target="327">
+	<data key="weight">1516.02895440055</data>
+</edge>
+<edge id="e328330" source="328" target="330">
+	<data key="weight">925.536706573043</data>
+</edge>
+<edge id="e330328" source="330" target="328">
+	<data key="weight">925.536706573043</data>
+</edge>
+<edge id="e330331" source="330" target="331">
+	<data key="weight">868.849384127217</data>
+</edge>
+<edge id="e331330" source="331" target="330">
+	<data key="weight">868.849384127217</data>
+</edge>
+<edge id="e331332" source="331" target="332">
+	<data key="weight">764.330146074551</data>
+</edge>
+<edge id="e332331" source="332" target="331">
+	<data key="weight">764.330146074551</data>
+</edge>
+<edge id="e332333" source="332" target="333">
+	<data key="weight">784.122134375245</data>
+</edge>
+<edge id="e333332" source="333" target="332">
+	<data key="weight">784.122134375245</data>
+</edge>
+<edge id="e333335" source="333" target="335">
+	<data key="weight">602.49280131309</data>
+</edge>
+<edge id="e335333" source="335" target="333">
+	<data key="weight">602.49280131309</data>
+</edge>
+<edge id="e335280" source="335" target="280">
+	<data key="weight">594.334730610889</data>
+</edge>
+<edge id="e280335" source="280" target="335">
+	<data key="weight">594.334730610889</data>
+</edge>
+<edge id="e280257" source="280" target="257">
+	<data key="weight">472.761038312964</data>
+</edge>
+<edge id="e257280" source="257" target="280">
+	<data key="weight">472.761038312964</data>
+</edge>
+<edge id="e257336" source="257" target="336">
+	<data key="weight">748.01974612419</data>
+</edge>
+<edge id="e336257" source="336" target="257">
+	<data key="weight">748.01974612419</data>
+</edge>
+<edge id="e336337" source="336" target="337">
+	<data key="weight">547.310453978492</data>
+</edge>
+<edge id="e337336" source="337" target="336">
+	<data key="weight">547.310453978492</data>
+</edge>
+<edge id="e337338" source="337" target="338">
+	<data key="weight">885.915184468323</data>
+</edge>
+<edge id="e338337" source="338" target="337">
+	<data key="weight">885.915184468323</data>
+</edge>
+<edge id="e338339" source="338" target="339">
+	<data key="weight">800.322361196433</data>
+</edge>
+<edge id="e339338" source="339" target="338">
+	<data key="weight">800.322361196433</data>
+</edge>
+<edge id="e339340" source="339" target="340">
+	<data key="weight">668.641225252441</data>
+</edge>
+<edge id="e340339" source="340" target="339">
+	<data key="weight">668.641225252441</data>
+</edge>
+<edge id="e340341" source="340" target="341">
+	<data key="weight">655.450886725681</data>
+</edge>
+<edge id="e341340" source="341" target="340">
+	<data key="weight">655.450886725681</data>
+</edge>
+<edge id="e341342" source="341" target="342">
+	<data key="weight">826.772269453986</data>
+</edge>
+<edge id="e342341" source="342" target="341">
+	<data key="weight">826.772269453986</data>
+</edge>
+<edge id="e342343" source="342" target="343">
+	<data key="weight">720.790414459779</data>
+</edge>
+<edge id="e343342" source="343" target="342">
+	<data key="weight">720.790414459779</data>
+</edge>
+<edge id="e343344" source="343" target="344">
+	<data key="weight">309.829582371269</data>
+</edge>
+<edge id="e344343" source="344" target="343">
+	<data key="weight">309.829582371269</data>
+</edge>
+<edge id="e344345" source="344" target="345">
+	<data key="weight">863.262539334805</data>
+</edge>
+<edge id="e345344" source="345" target="344">
+	<data key="weight">863.262539334805</data>
+</edge>
+<edge id="e345290" source="345" target="290">
+	<data key="weight">463.954959481891</data>
+</edge>
+<edge id="e290345" source="290" target="345">
+	<data key="weight">463.954959481891</data>
+</edge>
+<edge id="e346347" source="346" target="347">
+	<data key="weight">752.323363752685</data>
+</edge>
+<edge id="e347346" source="347" target="346">
+	<data key="weight">752.323363752685</data>
+</edge>
+<edge id="e347348" source="347" target="348">
+	<data key="weight">513.547776156177</data>
+</edge>
+<edge id="e348347" source="348" target="347">
+	<data key="weight">513.547776156177</data>
+</edge>
+<edge id="e348349" source="348" target="349">
+	<data key="weight">932.936383121104</data>
+</edge>
+<edge id="e349348" source="349" target="348">
+	<data key="weight">932.936383121104</data>
+</edge>
+<edge id="e349350" source="349" target="350">
+	<data key="weight">903.267092100218</data>
+</edge>
+<edge id="e350349" source="350" target="349">
+	<data key="weight">903.267092100218</data>
+</edge>
+<edge id="e350351" source="350" target="351">
+	<data key="weight">597.004015955562</data>
+</edge>
+<edge id="e351350" source="351" target="350">
+	<data key="weight">597.004015955562</data>
+</edge>
+<edge id="e351352" source="351" target="352">
+	<data key="weight">1237.25796892004</data>
+</edge>
+<edge id="e352351" source="352" target="351">
+	<data key="weight">1237.25796892004</data>
+</edge>
+<edge id="e352353" source="352" target="353">
+	<data key="weight">698.265307259556</data>
+</edge>
+<edge id="e353352" source="353" target="352">
+	<data key="weight">698.265307259556</data>
+</edge>
+<edge id="e353246" source="353" target="246">
+	<data key="weight">632.799589376746</data>
+</edge>
+<edge id="e246353" source="246" target="353">
+	<data key="weight">632.799589376746</data>
+</edge>
+<edge id="e246304" source="246" target="304">
+	<data key="weight">540.780459033156</data>
+</edge>
+<edge id="e304246" source="304" target="246">
+	<data key="weight">540.780459033156</data>
+</edge>
+<edge id="e304354" source="304" target="354">
+	<data key="weight">656.646326669805</data>
+</edge>
+<edge id="e354304" source="354" target="304">
+	<data key="weight">656.646326669805</data>
+</edge>
+<edge id="e354355" source="354" target="355">
+	<data key="weight">617.314315869572</data>
+</edge>
+<edge id="e355354" source="355" target="354">
+	<data key="weight">617.314315869572</data>
+</edge>
+<edge id="e355310" source="355" target="310">
+	<data key="weight">1103.48203365503</data>
+</edge>
+<edge id="e310355" source="310" target="355">
+	<data key="weight">1103.48203365503</data>
+</edge>
+<edge id="e310333" source="310" target="333">
+	<data key="weight">908.562914438485</data>
+</edge>
+<edge id="e333310" source="333" target="310">
+	<data key="weight">908.562914438485</data>
+</edge>
+<edge id="e333285" source="333" target="285">
+	<data key="weight">747.949770273699</data>
+</edge>
+<edge id="e285333" source="285" target="333">
+	<data key="weight">747.949770273699</data>
+</edge>
+<edge id="e285356" source="285" target="356">
+	<data key="weight">704.542808740194</data>
+</edge>
+<edge id="e356285" source="356" target="285">
+	<data key="weight">704.542808740194</data>
+</edge>
+<edge id="e356357" source="356" target="357">
+	<data key="weight">600.873981062285</data>
+</edge>
+<edge id="e357356" source="357" target="356">
+	<data key="weight">600.873981062285</data>
+</edge>
+<edge id="e357265" source="357" target="265">
+	<data key="weight">965.718763071732</data>
+</edge>
+<edge id="e265357" source="265" target="357">
+	<data key="weight">965.718763071732</data>
+</edge>
+<edge id="e265358" source="265" target="358">
+	<data key="weight">540.851728296195</data>
+</edge>
+<edge id="e358265" source="358" target="265">
+	<data key="weight">540.851728296195</data>
+</edge>
+<edge id="e358328" source="358" target="328">
+	<data key="weight">217.468122769103</data>
+</edge>
+<edge id="e328358" source="328" target="358">
+	<data key="weight">217.468122769103</data>
+</edge>
+<edge id="e328359" source="328" target="359">
+	<data key="weight">763.05247678823</data>
+</edge>
+<edge id="e359328" source="359" target="328">
+	<data key="weight">763.05247678823</data>
+</edge>
+<edge id="e359360" source="359" target="360">
+	<data key="weight">555.954647595751</data>
+</edge>
+<edge id="e360359" source="360" target="359">
+	<data key="weight">555.954647595751</data>
+</edge>
+<edge id="e360361" source="360" target="361">
+	<data key="weight">517.988651761769</data>
+</edge>
+<edge id="e361360" source="361" target="360">
+	<data key="weight">517.988651761769</data>
+</edge>
+<edge id="e361362" source="361" target="362">
+	<data key="weight">782.347461775941</data>
+</edge>
+<edge id="e362361" source="362" target="361">
+	<data key="weight">782.347461775941</data>
+</edge>
+<edge id="e362363" source="362" target="363">
+	<data key="weight">578.346333761472</data>
+</edge>
+<edge id="e363362" source="363" target="362">
+	<data key="weight">578.346333761472</data>
+</edge>
+<edge id="e363316" source="363" target="316">
+	<data key="weight">701.219774282911</data>
+</edge>
+<edge id="e316363" source="316" target="363">
+	<data key="weight">701.219774282911</data>
+</edge>
+<edge id="e265364" source="265" target="364">
+	<data key="weight">975.419175522636</data>
+</edge>
+<edge id="e364265" source="364" target="265">
+	<data key="weight">975.419175522636</data>
+</edge>
+<edge id="e364366" source="364" target="366">
+	<data key="weight">1205.83943942648</data>
+</edge>
+<edge id="e366364" source="366" target="364">
+	<data key="weight">1205.83943942648</data>
+</edge>
+<edge id="e366368" source="366" target="368">
+	<data key="weight">980.956847541778</data>
+</edge>
+<edge id="e368366" source="368" target="366">
+	<data key="weight">980.956847541778</data>
+</edge>
+<edge id="e368275" source="368" target="275">
+	<data key="weight">1075.36704671853</data>
+</edge>
+<edge id="e275368" source="275" target="368">
+	<data key="weight">1075.36704671853</data>
+</edge>
+<edge id="e275369" source="275" target="369">
+	<data key="weight">593.861476887241</data>
+</edge>
+<edge id="e369275" source="369" target="275">
+	<data key="weight">593.861476887241</data>
+</edge>
+<edge id="e369370" source="369" target="370">
+	<data key="weight">707.877498669123</data>
+</edge>
+<edge id="e370369" source="370" target="369">
+	<data key="weight">707.877498669123</data>
+</edge>
+<edge id="e370371" source="370" target="371">
+	<data key="weight">754.292331564623</data>
+</edge>
+<edge id="e371370" source="371" target="370">
+	<data key="weight">754.292331564623</data>
+</edge>
+<edge id="e366372" source="366" target="372">
+	<data key="weight">1163.74045777187</data>
+</edge>
+<edge id="e372366" source="372" target="366">
+	<data key="weight">1163.74045777187</data>
+</edge>
+<edge id="e372373" source="372" target="373">
+	<data key="weight">573.627713078563</data>
+</edge>
+<edge id="e373372" source="373" target="372">
+	<data key="weight">573.627713078563</data>
+</edge>
+<edge id="e373295" source="373" target="295">
+	<data key="weight">861.841566265489</data>
+</edge>
+<edge id="e295373" source="295" target="373">
+	<data key="weight">861.841566265489</data>
+</edge>
+<edge id="e323374" source="323" target="374">
+	<data key="weight">526.996965089753</data>
+</edge>
+<edge id="e374323" source="374" target="323">
+	<data key="weight">526.996965089753</data>
+</edge>
+<edge id="e374375" source="374" target="375">
+	<data key="weight">800.840436944777</data>
+</edge>
+<edge id="e375374" source="375" target="374">
+	<data key="weight">800.840436944777</data>
+</edge>
+<edge id="e375376" source="375" target="376">
+	<data key="weight">540.156942357445</data>
+</edge>
+<edge id="e376375" source="376" target="375">
+	<data key="weight">540.156942357445</data>
+</edge>
+<edge id="e376377" source="376" target="377">
+	<data key="weight">347.481118789707</data>
+</edge>
+<edge id="e377376" source="377" target="376">
+	<data key="weight">347.481118789707</data>
+</edge>
+</graph>
+</graphml>

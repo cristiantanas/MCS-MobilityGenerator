@@ -1,0 +1,12 @@
+i_graphfile=examples/metro_barcelona_ecef.graphml
+o_mobilityfile=examples/tGWalk_MetroBarcelona_600.ns_movements
+o_eventsfile=examples/tIncidencies_MetroBarcelona_600.events
+probdist=examples/metro_barcelona_default.probdist
+users=600
+minspeed=1.5
+maxspeed=3.0
+maxpause=30.0
+radius=300
+startdelay=3600
+geninterval=900
+stoptime=450000
