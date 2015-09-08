@@ -1,2 +1,2 @@
 # MCS-MobilityGenerator
-Mobility generator for MCS scenarios
+Generates user motion patterns using the ns-2 mobility trace format. 
